@@ -1,0 +1,9 @@
+Oct 12 13:14:45 sshd-session: Invalid user fakeuser from 127.0.0.1 port 33232
+Oct 12 13:14:53 sshd-session: authentication failure; rhost=127.0.0.1
+Oct 12 13:14:55 sshd-session: Failed password for invalid user fakeuser from 127.0.0.1 port 33232 ssh2
+Oct 12 13:15:33 sshd-session: Invalid user fakeuser from 127.0.0.1 port 38868
+Oct 12 13:15:40 sshd-session: authentication failure; rhost=127.0.0.1
+Oct 12 13:15:42 sshd-session: Failed password for invalid user fakeuser from 127.0.0.1 port 38868 ssh2
+Oct 12 13:15:48 sshd-session: Invalid user fakeuser from 127.0.0.1 port 56456
+Oct 12 13:15:55 sshd-session: authentication failure; rhost=127.0.0.1
+Oct 12 13:15:57 sshd-session: Failed password for invalid user fakeuser from 127.0.0.1 port 56456 ssh2
